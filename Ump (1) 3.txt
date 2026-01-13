@@ -1,0 +1,195 @@
+﻿Ochrona środowiska – UPM / Biofore
+Tak, realizowane.
+UPM działa zgodnie z zasadą zrównoważonego rozwoju, przepisami prawa i odpowiedzialnością środowiskową.
+Kluczowe obszary:
+	•	Klimat
+	•	Surowce
+	•	Woda
+	•	Odpady
+	•	Bioróżnorodność
+Cele:
+	•	Minimalizacja wpływu na środowisko
+	•	Efektywne wykorzystanie zasobów
+	•	Ciągłe doskonalenie do roku 2030
+Norma: ISO 14001:2015 – system zarządzania środowiskowego (nie jest normą obowiązkową, ale ramową).
+⸻
+System Zarządzania Środowiskowego (SZŚ)
+Definicja:
+Część systemu zarządzania organizacją, służąca identyfikacji i kontroli aspektów środowiskowych.
+Odpowiedzialność pracownika:
+	•	Znajomość polityki środowiskowej
+	•	Przestrzeganie procedur
+	•	Zgłaszanie zagrożeń i nieprawidłowości
+Dostęp do informacji:
+Intranet, dokumentacja lokalna, działy BHP/HS.
+⸻
+System Zarządzania Jakością (ISO 9001:2015)
+Jakość oznacza:
+	•	Spełnienie wymagań stron zainteresowanych
+	•	Powtarzalność jakości produktu
+	•	Terminowość i profesjonalną obsługę
+Podejścia do jakości:
+	•	Proaktywne – analiza trendów, audyty, DMS
+	•	Reaktywne – reklamacje, odpady, uwagi jakościowe
+⸻
+Standardy BHP – UPM
+13 standardów BHP, m.in.:
+	1.	Analiza ryzyka zawodowego
+	2.	Prace na wysokości
+	3.	Procedura LOTO
+	4.	Prace w przestrzeniach zamkniętych
+	5.	Pozwolenia na pracę
+	6.	Sprzęt mobilny i dźwigi
+	7.	Substancje chemiczne
+	8.	ŚOI
+	9.	Role i odpowiedzialności
+	10.	Zgłaszanie wypadków
+	11.	Audyty i spacery BHP
+⸻
+Standardy ratujące życie (6 kluczowych)
+Obowiązkowe – 100% przestrzegania:
+	1.	Ocena ryzyka
+	2.	Kontrola źródeł energii
+	3.	Prace na wysokości
+	4.	Pozwolenie na pracę
+	5.	Pomieszczenia zamknięte
+	6.	Sprzęt mobilny i dźwigi
+Cel: zapobieganie wypadkom śmiertelnym i ciężkim.
+1. Analiza ryzyka zawodowego
+ • Każdy pracownik UPM Ratafac oraz podwykonawcy pracujący na terenie zakładu muszą znać zagrożenia związane z wykonywaną pracą.
+ • Zakład wymaga wiedzy, jakie zagrożenia są związane z pracą w danym obszarze.
+ • Przed rozpoczęciem pracy musi być wykonana ocena ryzyka.
+Prosta ocena ryzyka wykonywana jest gdy:
+ • nie ma formalnej oceny ryzyka dla danej pracy,
+ • nie istnieje instrukcja, jak wykonać pracę,
+ • praca różni się od normalnej,
+ • występują dodatkowe zagrożenia.
+ • Prosta ocena ryzyka jest wykonywana wspólnie przez lidera i osobę wykonującą pracę.
+ • Pracy nie wolno rozpocząć, jeżeli po wprowadzeniu zabezpieczeń ryzyko nadal pozostaje wysokie.
+⸻
+2. Prace w przestrzeniach zamkniętych
+ • Prace w przestrzeniach zamkniętych mogą być wykonywane tylko po spełnieniu określonych warunków.
+ • Przed rozpoczęciem pracy:
+ • należy przeprowadzić ocenę ryzyka,
+ • sprawdzić atmosferę,
+ • zapewnić wentylację,
+ • przygotować plan ratunkowy.
+Role w przestrzeni zamkniętej:
+ • Osoba wchodząca – przeszkolona, świadoma zagrożeń, pozostaje w kontakcie.
+ • Pomocnik – osoba przeszkolona, pozostaje na zewnątrz, reaguje w razie zagrożenia.
+ • Nadzorca wejścia – kontroluje przebieg prac i ma prawo je wstrzymać.
+ • Wymagane jest pozwolenie na pracę w przestrzeni zamkniętej.
+ • Prace muszą być natychmiast przerwane, jeśli pojawi się zagrożenie.
+⸻
+3. Prace na wysokości
+ • Prace na wysokości mogą wykonywać tylko osoby upoważnione, znajdujące się na liście.
+ • Wymagane jest pozwolenie na pracę na wysokości.
+ • Pozwolenie nie jest potrzebne tylko wtedy, gdy:
+ • praca znajduje się w rejestrze prac standardowych,
+ • została wykonana ocena ryzyka,
+ • pracownik został zapoznany z ryzykiem (rejestr w instrukcji).
+ • Szczególną uwagę należy zwrócić na:
+ • zabezpieczenia przed upadkiem,
+ • stabilność podłoża,
+ • warunki pracy.
+⸻
+4. LOTO – Lock Out / Tag Out
+ • System LOTO służy do zablokowania i oznakowania niebezpiecznych źródeł energii.
+ • Pozwala na bezpieczne prowadzenie prac konserwacyjnych i remontowych.
+Proces LOTO:
+ 1. Zatrzymanie urządzenia.
+ 2. Odłączenie źródeł energii.
+ 3. Zabezpieczenie kłódką.
+ 4. Oznakowanie źródła energii.
+ 5. Sprawdzenie braku energii.
+ 6. Bezpieczne wykonanie pracy.
+ • Każdy pracownik stosuje własną kłódkę.
+⸻
+5. Pozwolenia na pracę
+ • Celem systemu pozwoleń jest ochrona zdrowia i życia pracowników oraz ochrona środowiska.
+ • Pozwolenia zapewniają:
+ • właściwą autoryzację,
+ • kontrolę przebiegu prac,
+ • jasne określenie ról i odpowiedzialności.
+Pozwolenia wymagane są m.in. dla:
+ 1. Prac gorących.
+ 2. Prac podwykonawców.
+ 3. Prac w przestrzeniach zamkniętych.
+ 4. Prac elektrycznych.
+ 5. Prac na instalacjach gorących.
+ 6. Prac elektroenergetycznych.
+⸻
+6. Urządzenia mobilne i dźwigi
+ • Celem standardu jest zapewnienie, że urządzenia są sprawne technicznie i bezpieczne.
+ • Wymagane są:
+ • przeglądy techniczne,
+ • dokumentacja,
+ • szkolenia i uprawnienia operatorów.
+Wózki widłowe:
+ • Operator musi posiadać ważne uprawnienia.
+ • Wózek musi być sprawny (sygnał dźwiękowy, hamulce, światła).
+ • Zabronione jest przewożenie osób.
+⸻
+7. Zarządzanie substancjami i mieszaninami
+ • Celem standardu jest zapewnienie bezpiecznych i zdrowych miejsc pracy.
+ • Dotyczy wszystkich miejsc, gdzie występuje kontakt z chemikaliami.
+ • Każda substancja musi posiadać kartę charakterystyki (SDS) w języku polskim.
+ • Chemikalia muszą być:
+ • prawidłowo oznakowane,
+ • właściwie przechowywane.
+ • Pracownicy muszą być przeszkoleni.
+ • Wymagana jest aktualna ocena ryzyka.
+⸻
+8. Bezpieczeństwo podwykonawców
+ • Podwykonawcy przechodzą proces dopuszczenia do pracy.
+ • Obowiązują ich te same zasady BHP, co pracowników UPM.
+ • Muszą znać:
+ • zagrożenia,
+ • procedury,
+ • zasady reagowania.
+ • Mogą pracować tylko w zakresie pozwolenia na pracę.
+⸻
+9. Środki ochrony osobistej (ŚOI)
+ • ŚOI są stosowane w celu bezpiecznego wykonywania pracy.
+ • Rodzaj ŚOI określa dział BHP.
+ • ŚOI są przypisane indywidualnie.
+ • Nie mogą być używane przez więcej niż jedną osobę.
+ • Pracownik ma obowiązek ich stosowania.
+⸻
+10. Role, odpowiedzialności i zachowania
+ • Standard określa wymagane zachowania pracowników, przełożonych i kierownictwa.
+ • Każdy odpowiada za bezpieczeństwo własne i innych.
+ • Przełożeni:
+ • organizują bezpieczną pracę,
+ • reagują na zagrożenia.
+⸻
+11. Bezpieczeństwo gości
+ • Goście nie wykonują pracy fizycznej.
+ • Przebywają na terenie zakładu pod opieką.
+ • Muszą być zapoznani z zasadami BHP.
+ • Obowiązkowe jest stosowanie wymaganych ŚOI (kask, kamizelka, obuwie).
+⸻
+12. Wypadki i incydenty
+ • Każdy wypadek oraz zdarzenie potencjalnie wypadkowe musi być zgłoszone.
+ • Zgłoszenia dokonuje się do przełożonego.
+ • Przeprowadzana jest analiza przyczyn.
+ • Określane są działania korygujące.
+ • Wszystko jest dokumentowane.
+⸻
+13. Audyty i spacery BHP
+ • Osoby kierujące pracownikami są zobowiązane do sprawdzania stanu bezpieczeństwa.
+ • Wykorzystywane są:
+ • audyty BHP,
+ • wewnętrzne audyty,
+ • obserwacje behawioralne (zielone spacery),
+ • rozmowy nt. bezpieczeństwa,
+ • inspekcje HSE.
+ • Audyty pokazują słabe punkty i braki w systemie.
+ • Po audycie:
+ • wyznaczane są działania korygujące,
+ • określane są osoby odpowiedzialne i terminy,
+ • działania trafiają do rejestrów,
+ • realizacja jest okresowo sprawdzana.
+
+
+
